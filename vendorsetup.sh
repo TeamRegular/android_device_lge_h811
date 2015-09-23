@@ -1,1 +1,2 @@
+add_lunch_combo cm_h811-eng
 add_lunch_combo cm_h811-userdebug
